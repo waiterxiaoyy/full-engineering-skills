@@ -1,0 +1,9 @@
+{
+  "name": "full-engineering-skills",
+  "description": "需求澄清、方案决策、行为规格、跨层实现、证据调试与任务交接的工程实践 Skills。",
+  "version": "1.0.0",
+  "author": {
+    "name": "waiterxiaoyy"
+  },
+  "repository": "https://github.com/waiterxiaoyy/full-engineering-skills"
+}
